@@ -1,7 +1,13 @@
+# Welcome to my github 
 
- # Title
-A line made
-1. Item 1
-2. Item 2
+Hello! I am Han, and I am currently studying towards a Master's degree in Statistics at Imperial College London specialising in [Statistical Finance](https://www.imperial.ac.uk/study/courses/postgraduate-taught/statistics-statistical-finance/), having obtained a first class honours degree (79%) in Joint Mathematics and Computer Science from the University of Warwick.
 
-$\frac{1}{2}$
+Here you will see various personal projects and university projects that I have worked on over the years. 
+More repositories will be added to reflect better the skills learnt and the knowledge gained.
+
+In particular, my interests lie in, in no particular order: 
+- Mathematical Finance
+- Statistics and machine learning
+- Computer Algorithms and complexity theory
+
+I have previously worked on a 3 month jointly funded(£1900) by G-Reserach and the Department of Statistics at the University of Warwick, concerning sampling from multimodal distributions using Markov Chain Monte Carlo methods. 
