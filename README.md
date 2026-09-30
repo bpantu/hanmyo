@@ -1,4 +1,4 @@
-## I'm Han, welcome to my githu!
+## I'm Han, welcome to my GitHub!
 Hello! My name is Han Myo Htet, and I am currently studying towards a Master's degree in Statistics at Imperial College London specialising in [Statistical Finance](https://www.imperial.ac.uk/study/courses/postgraduate-taught/statistics-statistical-finance/), having obtained a first class honours degree (79%) in Joint Mathematics and Computer Science from the University of Warwick.
 
 Here you will see various personal projects and university projects that I have worked on over the years. 
