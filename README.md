@@ -15,4 +15,4 @@ To find out more about my work and get into touch with me, please do find me at 
 I have obtained a first class honours degree in Joint Mathematics and Computer Science from the University of Warwick.
 
 ----
-last updated: 2026-09-30
+last updated: 2026-09-28
