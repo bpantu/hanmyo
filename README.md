@@ -9,6 +9,6 @@ In particular, my interests lie in, in no particular order:
 - Statistics and machine learning
 - Computer Algorithms and complexity theory
 
-I have previously worked on a 3 month jointly funded(£1900) research project in Statistics by G-Reserach and the Department of Statistics at the University of Warwick, concerning sampling from multimodal distributions using Markov Chain Monte Carlo methods. 
+I have previously worked on a 3 month research project in Statistics, jointly funded(£1900)by G-Reserach and the Department of Statistics at the University of Warwick, concerning with sampling from multimodal distributions using Markov Chain Monte Carlo methods. 
 
 To find out more about my work and get into touch with me, please do find me at my [LinkedIn](https://www.linkedin.com/in/han-myo-htet-1900771b9/) page!
