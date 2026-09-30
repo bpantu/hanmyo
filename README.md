@@ -13,3 +13,6 @@ I have previously worked on a 3 month research project in Statistics, jointly fu
 
 To find out more about my work and get into touch with me, please do find me at my [LinkedIn](https://www.linkedin.com/in/han-myo-htet-1900771b9/) page!
 I have obtained a first class honours degree in Joint Mathematics and Computer Science from the University of Warwick.
+
+----
+last updated: 2026-09-30
